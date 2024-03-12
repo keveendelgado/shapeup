@@ -276,3 +276,11 @@ footer p {
         border-radius: 0%;
     }
 }
+@media (max-width: 767px) 
+{ #mobilemenu { display: block; } 
+.slicknav_menu { background-color: steelblue; } 
+#nav_menu { display: none; }
+ main { flex-direction: column; align-items: center; } 
+ section, #nav_list, 
+ #asideright { max-width: 95%; } 
+ #nav_list { order: 2; margin-bottom: 1em; } }
