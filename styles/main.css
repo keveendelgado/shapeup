@@ -138,7 +138,6 @@ a {
     text-decoration: none;
 }
 a:link, a:visited {
-    color: steelblue;
 }
 a:hover, a:focus {
     color: maroon;
